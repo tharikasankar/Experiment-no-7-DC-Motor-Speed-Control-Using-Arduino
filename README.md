@@ -1,10 +1,10 @@
-![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/739cc470-48c8-4873-a730-6319b4afc602)
+# Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
 ###  DATE: 21/03/24
 
 ###  NAME: THARIKA S
 ###  ROLL NO : 212222230159
 ###  DEPARTMENT: AIDS
-# Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
+
 ### AIM : To control the speed and the direction of a DC motor using L293D driver ic( H- bridge)
 
 ### Components Required:
@@ -57,19 +57,23 @@ void loop()
 }
 ```
 ### OUTPUT
+## CIRCUIT DIAGRAM:
 ![image](https://github.com/tharikasankar/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119475507/8dd86ce9-ac18-48fa-ba92-9964f04b780b)
-
+## SCHEMATIC DIAGRAM:
 ![image](https://github.com/tharikasankar/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119475507/57bf78e5-316f-4db8-a58f-e395fa9e3c4f)
 
-### GRAPH AND TABULATION 
-
-
-![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/07e9b28e-9a5b-47bd-a023-3c27fe00fb2b)
-
-
-![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/67ed339f-8011-4acc-b793-e5d4930639c7)
+### GRAPH 
+![image](https://github.com/tharikasankar/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119475507/aaf7818c-342d-4c45-8a86-891570b3e886)
 
 
 
-### RESULTS AND DISCUSSION 
+
+## TABULATION 
+![image](https://github.com/tharikasankar/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119475507/ab97e10b-96a9-4d90-9676-1cf184461d0b)
+
+
+
+
+### RESULTS :
+The program to control the speed and the direction of a DC motor using L293D driver ic( H- bridge) is completed and executed successfully.
 
